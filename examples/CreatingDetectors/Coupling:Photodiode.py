@@ -1,6 +1,6 @@
 """
-Coupling Photodiode
-===================
+Photodiode
+==========
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Coupling:Photodiode.png'

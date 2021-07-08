@@ -1,6 +1,6 @@
 """
-Experiment Coupling vs Wavelength
-=================================
+Coupling vs Wavelength
+======================
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Experiment:Coupling-vs-wavelength.png'

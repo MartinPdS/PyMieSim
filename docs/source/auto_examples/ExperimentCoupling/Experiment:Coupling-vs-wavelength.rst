@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentCoupling_Experiment:Coupling-vs-wavelength.py:
 
 
-Experiment Coupling vs Wavelength
-=================================
+Coupling vs Wavelength
+======================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-53
 

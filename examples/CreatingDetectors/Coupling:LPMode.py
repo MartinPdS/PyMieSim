@@ -1,6 +1,6 @@
 """
-Coupling LP Mode
-================
+LP Mode
+=======
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Coupling:LPMode.png'

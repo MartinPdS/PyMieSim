@@ -1,6 +1,6 @@
 """
-Scatterer Index
-===============
+Index
+=====
 """
 
 def run(Plot, Save):

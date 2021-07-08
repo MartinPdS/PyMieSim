@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentProperties_Experiment:Qscattering.py:
 
 
-Experiment Qscattering
-======================
+Qscattering
+===========
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-42
 

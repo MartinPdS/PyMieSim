@@ -1,6 +1,6 @@
 """
-Scatterer Material
-==================
+Material
+========
 """
 
 def run(Plot, Save):

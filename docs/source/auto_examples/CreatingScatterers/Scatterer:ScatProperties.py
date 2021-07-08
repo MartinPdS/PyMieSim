@@ -1,6 +1,6 @@
 """
-Scatterer Scat Properties
-=========================
+Scat Properties
+===============
 """
 
 def run(Plot, Save):

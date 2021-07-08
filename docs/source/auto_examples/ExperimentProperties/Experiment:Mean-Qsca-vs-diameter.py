@@ -1,6 +1,6 @@
 """
-Experiment Mean Qsca vs Diameter
-================================
+Mean Qsca vs Diameter
+=====================
 """
 
 def run(Plot, Save):

@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_CreatingDetectors_Coupling:Photodiode.py:
 
 
-Coupling Photodiode
-===================
+Photodiode
+==========
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-32
 

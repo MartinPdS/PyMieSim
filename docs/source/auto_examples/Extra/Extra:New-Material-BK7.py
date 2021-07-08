@@ -1,6 +1,6 @@
 """
-Extra New Material BK7
-======================
+New Material BK7
+================
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Extra:New-Material-BK7.png'

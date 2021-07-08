@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_Extra_Extra:New-Material-Silver.py:
 
 
-Extra New Material Silver
-=========================
+New Material Silver
+===================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-26
 

@@ -1,6 +1,6 @@
 """
-Experiment Coupling vs Diameter
-===============================
+Coupling vs Diameter
+====================
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Experiment:Coupling-vs-diameter.png'

@@ -1,6 +1,6 @@
 """
-Fields Stokes
-=============
+Stokes
+======
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Fields:Stokes.png'

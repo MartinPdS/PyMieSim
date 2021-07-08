@@ -1,6 +1,6 @@
 """
-Experiment Qsca vs Diameter
-===========================
+Qsca vs Diameter
+================
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Experiment:Qsca-vs-diameter.png'

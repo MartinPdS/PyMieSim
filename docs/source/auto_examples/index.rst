@@ -26,12 +26,12 @@ Creating Scatterers
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Scatterer Index">
+    <div class="sphx-glr-thumbcontainer" tooltip="Index">
 
 .. only:: html
 
  .. figure:: /auto_examples/CreatingScatterers/images/thumb/sphx_glr_Scatterer:Index_thumb.png
-     :alt: Scatterer Index
+     :alt: Index
 
      :ref:`sphx_glr_auto_examples_CreatingScatterers_Scatterer:Index.py`
 
@@ -47,12 +47,12 @@ Creating Scatterers
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Scatterer Material">
+    <div class="sphx-glr-thumbcontainer" tooltip="Material">
 
 .. only:: html
 
  .. figure:: /auto_examples/CreatingScatterers/images/thumb/sphx_glr_Scatterer:Material_thumb.png
-     :alt: Scatterer Material
+     :alt: Material
 
      :ref:`sphx_glr_auto_examples_CreatingScatterers_Scatterer:Material.py`
 
@@ -68,12 +68,12 @@ Creating Scatterers
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Scatterer Scat Properties">
+    <div class="sphx-glr-thumbcontainer" tooltip="Scat Properties">
 
 .. only:: html
 
  .. figure:: /auto_examples/CreatingScatterers/images/thumb/sphx_glr_Scatterer:ScatProperties_thumb.png
-     :alt: Scatterer Scat Properties
+     :alt: Scat Properties
 
      :ref:`sphx_glr_auto_examples_CreatingScatterers_Scatterer:ScatProperties.py`
 
@@ -89,12 +89,12 @@ Creating Scatterers
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Scatterer Samples Properties">
+    <div class="sphx-glr-thumbcontainer" tooltip="Samples Properties">
 
 .. only:: html
 
  .. figure:: /auto_examples/CreatingScatterers/images/thumb/sphx_glr_Scatterer:SamplesProperties_thumb.png
-     :alt: Scatterer Samples Properties
+     :alt: Samples Properties
 
      :ref:`sphx_glr_auto_examples_CreatingScatterers_Scatterer:SamplesProperties.py`
 
@@ -122,12 +122,12 @@ Creating Detectors
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Coupling Photodiode">
+    <div class="sphx-glr-thumbcontainer" tooltip="Photodiode">
 
 .. only:: html
 
  .. figure:: /auto_examples/CreatingDetectors/images/thumb/sphx_glr_Coupling:Photodiode_thumb.png
-     :alt: Coupling Photodiode
+     :alt: Photodiode
 
      :ref:`sphx_glr_auto_examples_CreatingDetectors_Coupling:Photodiode.py`
 
@@ -143,12 +143,12 @@ Creating Detectors
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Coupling LP Mode">
+    <div class="sphx-glr-thumbcontainer" tooltip="LP Mode">
 
 .. only:: html
 
  .. figure:: /auto_examples/CreatingDetectors/images/thumb/sphx_glr_Coupling:LPMode_thumb.png
-     :alt: Coupling LP Mode
+     :alt: LP Mode
 
      :ref:`sphx_glr_auto_examples_CreatingDetectors_Coupling:LPMode.py`
 
@@ -176,12 +176,12 @@ Computing Fields
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Fields SPF">
+    <div class="sphx-glr-thumbcontainer" tooltip="SPF">
 
 .. only:: html
 
  .. figure:: /auto_examples/ComputingFields/images/thumb/sphx_glr_Fields:SPF_thumb.png
-     :alt: Fields SPF
+     :alt: SPF
 
      :ref:`sphx_glr_auto_examples_ComputingFields_Fields:SPF.py`
 
@@ -197,12 +197,12 @@ Computing Fields
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Fields S1 S2">
+    <div class="sphx-glr-thumbcontainer" tooltip="S1 S2">
 
 .. only:: html
 
  .. figure:: /auto_examples/ComputingFields/images/thumb/sphx_glr_Fields:S1S2_thumb.png
-     :alt: Fields S1 S2
+     :alt: S1 S2
 
      :ref:`sphx_glr_auto_examples_ComputingFields_Fields:S1S2.py`
 
@@ -218,12 +218,12 @@ Computing Fields
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Fields Far Field">
+    <div class="sphx-glr-thumbcontainer" tooltip="Far Field">
 
 .. only:: html
 
  .. figure:: /auto_examples/ComputingFields/images/thumb/sphx_glr_Fields:FarField_thumb.png
-     :alt: Fields Far Field
+     :alt: Far Field
 
      :ref:`sphx_glr_auto_examples_ComputingFields_Fields:FarField.py`
 
@@ -239,12 +239,12 @@ Computing Fields
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Fields Stokes">
+    <div class="sphx-glr-thumbcontainer" tooltip="Stokes">
 
 .. only:: html
 
  .. figure:: /auto_examples/ComputingFields/images/thumb/sphx_glr_Fields:Stokes_thumb.png
-     :alt: Fields Stokes
+     :alt: Stokes
 
      :ref:`sphx_glr_auto_examples_ComputingFields_Fields:Stokes.py`
 
@@ -272,12 +272,12 @@ Computing Coupling
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Coupling Scatterer Photodiode">
+    <div class="sphx-glr-thumbcontainer" tooltip="Scatterer Photodiode">
 
 .. only:: html
 
  .. figure:: /auto_examples/ComputingCoupling/images/thumb/sphx_glr_Coupling:Scatterer-Photodiode_thumb.png
-     :alt: Coupling Scatterer Photodiode
+     :alt: Scatterer Photodiode
 
      :ref:`sphx_glr_auto_examples_ComputingCoupling_Coupling:Scatterer-Photodiode.py`
 
@@ -305,12 +305,12 @@ Experiment Coupling
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Goniometer">
+    <div class="sphx-glr-thumbcontainer" tooltip="Goniometer">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentCoupling/images/thumb/sphx_glr_Experiment:Goniometer_thumb.png
-     :alt: Experiment Goniometer
+     :alt: Goniometer
 
      :ref:`sphx_glr_auto_examples_ExperimentCoupling_Experiment:Goniometer.py`
 
@@ -326,12 +326,12 @@ Experiment Coupling
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Coupling vs Diameter">
+    <div class="sphx-glr-thumbcontainer" tooltip="Coupling vs Diameter">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentCoupling/images/thumb/sphx_glr_Experiment:Coupling-vs-diameter_thumb.png
-     :alt: Experiment Coupling vs Diameter
+     :alt: Coupling vs Diameter
 
      :ref:`sphx_glr_auto_examples_ExperimentCoupling_Experiment:Coupling-vs-diameter.py`
 
@@ -347,12 +347,12 @@ Experiment Coupling
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Coupling vs Wavelength">
+    <div class="sphx-glr-thumbcontainer" tooltip="Coupling vs Wavelength">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentCoupling/images/thumb/sphx_glr_Experiment:Coupling-vs-wavelength_thumb.png
-     :alt: Experiment Coupling vs Wavelength
+     :alt: Coupling vs Wavelength
 
      :ref:`sphx_glr_auto_examples_ExperimentCoupling_Experiment:Coupling-vs-wavelength.py`
 
@@ -380,12 +380,12 @@ Experiment Properties
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Qscattering">
+    <div class="sphx-glr-thumbcontainer" tooltip="Qscattering">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentProperties/images/thumb/sphx_glr_Experiment:Qscattering_thumb.png
-     :alt: Experiment Qscattering
+     :alt: Qscattering
 
      :ref:`sphx_glr_auto_examples_ExperimentProperties_Experiment:Qscattering.py`
 
@@ -401,12 +401,12 @@ Experiment Properties
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Mie Resonances">
+    <div class="sphx-glr-thumbcontainer" tooltip="Mie Resonances">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentProperties/images/thumb/sphx_glr_Experiment:Mie-resonances_thumb.png
-     :alt: Experiment Mie Resonances
+     :alt: Mie Resonances
 
      :ref:`sphx_glr_auto_examples_ExperimentProperties_Experiment:Mie-resonances.py`
 
@@ -422,12 +422,12 @@ Experiment Properties
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Qsca vs Diameter">
+    <div class="sphx-glr-thumbcontainer" tooltip="Qsca vs Diameter">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentProperties/images/thumb/sphx_glr_Experiment:Qsca-vs-diameter_thumb.png
-     :alt: Experiment Qsca vs Diameter
+     :alt: Qsca vs Diameter
 
      :ref:`sphx_glr_auto_examples_ExperimentProperties_Experiment:Qsca-vs-diameter.py`
 
@@ -443,12 +443,12 @@ Experiment Properties
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Mean Qsca vs Diameter">
+    <div class="sphx-glr-thumbcontainer" tooltip="Mean Qsca vs Diameter">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentProperties/images/thumb/sphx_glr_Experiment:Mean-Qsca-vs-diameter_thumb.png
-     :alt: Experiment Mean Qsca vs Diameter
+     :alt: Mean Qsca vs Diameter
 
      :ref:`sphx_glr_auto_examples_ExperimentProperties_Experiment:Mean-Qsca-vs-diameter.py`
 
@@ -464,12 +464,12 @@ Experiment Properties
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Experiment Qsca vs Diameter Shell Scat">
+    <div class="sphx-glr-thumbcontainer" tooltip="Qsca vs Diameter Shell Scat">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentProperties/images/thumb/sphx_glr_Experiment:Qsca-vs-diameter_ShellScat_thumb.png
-     :alt: Experiment Qsca vs Diameter Shell Scat
+     :alt: Qsca vs Diameter Shell Scat
 
      :ref:`sphx_glr_auto_examples_ExperimentProperties_Experiment:Qsca-vs-diameter_ShellScat.py`
 
@@ -497,12 +497,12 @@ Experiment Optimization
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Optimization Opt 2 parameter">
+    <div class="sphx-glr-thumbcontainer" tooltip="Opt 2 parameter">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentOptimization/images/thumb/sphx_glr_Optimization:Opt-2-parameter_thumb.png
-     :alt: Optimization Opt 2 parameter
+     :alt: Opt 2 parameter
 
      :ref:`sphx_glr_auto_examples_ExperimentOptimization_Optimization:Opt-2-parameter.py`
 
@@ -518,12 +518,12 @@ Experiment Optimization
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Optimization Opt 1 parameter">
+    <div class="sphx-glr-thumbcontainer" tooltip="Opt 1 parameter">
 
 .. only:: html
 
  .. figure:: /auto_examples/ExperimentOptimization/images/thumb/sphx_glr_Optimization:Opt-1-parameter_thumb.png
-     :alt: Optimization Opt 1 parameter
+     :alt: Opt 1 parameter
 
      :ref:`sphx_glr_auto_examples_ExperimentOptimization_Optimization:Opt-1-parameter.py`
 
@@ -584,12 +584,12 @@ Extra
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Extra New Material BK7">
+    <div class="sphx-glr-thumbcontainer" tooltip="New Material BK7">
 
 .. only:: html
 
  .. figure:: /auto_examples/Extra/images/thumb/sphx_glr_Extra:New-Material-BK7_thumb.png
-     :alt: Extra New Material BK7
+     :alt: New Material BK7
 
      :ref:`sphx_glr_auto_examples_Extra_Extra:New-Material-BK7.py`
 
@@ -605,12 +605,12 @@ Extra
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Extra New Material Silver">
+    <div class="sphx-glr-thumbcontainer" tooltip="New Material Silver">
 
 .. only:: html
 
  .. figure:: /auto_examples/Extra/images/thumb/sphx_glr_Extra:New-Material-Silver_thumb.png
-     :alt: Extra New Material Silver
+     :alt: New Material Silver
 
      :ref:`sphx_glr_auto_examples_Extra_Extra:New-Material-Silver.py`
 

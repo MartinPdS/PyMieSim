@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentCoupling_Experiment:Goniometer.py:
 
 
-Experiment Goniometer
-=====================
+Goniometer
+==========
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-53
 

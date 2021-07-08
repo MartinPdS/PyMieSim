@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentCoupling_Experiment:Coupling-vs-diameter.py:
 
 
-Experiment Coupling vs Diameter
-===============================
+Coupling vs Diameter
+====================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-53
 

@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_CreatingDetectors_Coupling:LPMode.py:
 
 
-Coupling LP Mode
-================
+LP Mode
+=======
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-35
 

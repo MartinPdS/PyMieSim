@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_CreatingScatterers_Scatterer:ScatProperties.py:
 
 
-Scatterer Scat Properties
-=========================
+Scat Properties
+===============
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-62
 

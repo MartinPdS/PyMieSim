@@ -1,6 +1,6 @@
 """
-Fields Far Field
-================
+Far Field
+=========
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Fields:FarField.png'

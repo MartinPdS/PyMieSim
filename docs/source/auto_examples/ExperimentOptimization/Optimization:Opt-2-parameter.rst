@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentOptimization_Optimization:Opt-2-parameter.py:
 
 
-Optimization Opt 2 parameter
-============================
+Opt 2 parameter
+===============
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-58
 

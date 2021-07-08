@@ -1,6 +1,6 @@
 """
-Experiment Goniometer
-=====================
+Goniometer
+==========
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Experiment:Goniometer.png'

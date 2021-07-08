@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ComputingFields_Fields:S1S2.py:
 
 
-Fields S1 S2
-============
+S1 S2
+=====
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-35
 

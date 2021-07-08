@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentProperties_Experiment:Mie-resonances.py:
 
 
-Experiment Mie Resonances
-=========================
+Mie Resonances
+==============
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-44
 

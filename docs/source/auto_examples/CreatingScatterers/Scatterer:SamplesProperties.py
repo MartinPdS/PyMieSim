@@ -1,6 +1,6 @@
 """
-Scatterer Samples Properties
-============================
+Samples Properties
+==================
 """
 
 def run(Plot, Save):

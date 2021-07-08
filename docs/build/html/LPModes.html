@@ -4,16 +4,17 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Fiber optic LP mode as detector &#8212; PyMieSim 0.1.11 documentation</title>
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinxdoc.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery-binder.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery-dataframe.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery-rendered-html.css" />
     <link rel="stylesheet" type="text/css" href="_static/default.css" />
-    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
@@ -48,13 +49,13 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="fiber-optic-lp-mode-as-detector">
+  <section id="fiber-optic-lp-mode-as-detector">
 <h1>Fiber optic LP mode as detector<a class="headerlink" href="#fiber-optic-lp-mode-as-detector" title="Permalink to this headline">¶</a></h1>
 <p>PyMieSim offer to the user to create phase-sensitive detectors such as fiber optics LP modes.
 To check how to use them, please refer to the <a class="reference internal" href="auto_examples/index.html#examples"><span class="std std-ref">Examples</span></a> section</p>
 <p>A few LP mode are already precomputed but it might be convenient to add mores.
 To do so read the following.</p>
-<div class="section" id="lp-modes-generate-files">
+<section id="lp-modes-generate-files">
 <h2>LP-modes: Generate files<a class="headerlink" href="#lp-modes-generate-files" title="Permalink to this headline">¶</a></h2>
 <p>I have prealably compilated 12 LP-modes which are:</p>
 <ol class="arabic simple">
@@ -74,23 +75,21 @@ To do so read the following.</p>
 <p>So you can already use them, no need to reproduce. However if you want to
 use another mode you first need to install the fibermodes package using the
 following command:</p>
-<div class="highlight-python notranslate"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">cbrunet</span><span class="o">/</span><span class="n">fibermodes</span><span class="o">.</span><span class="n">git</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="n">pip</span> <span class="n">install</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">cbrunet</span><span class="o">/</span><span class="n">fibermodes</span><span class="o">.</span><span class="n">git</span>
 </pre></div>
-</td></tr></table></div>
+</div>
 <p>Then you can use the PyMieSIm FiberModes module as follow:</p>
-<div class="highlight-python notranslate"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
-2
-3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">PyMieSim.FiberModes</span> <span class="kn">import</span> <span class="n">Genfiles</span>
-
-<span class="n">Genfiles</span><span class="p">([(</span><span class="mi">5</span><span class="p">,</span><span class="mi">2</span><span class="p">)],</span> <span class="n">padWidth</span> <span class="o">=</span> <span class="mi">2000</span><span class="p">,</span> <span class="n">Num</span> <span class="o">=</span> <span class="mi">251</span><span class="p">)</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="kn">from</span> <span class="nn">PyMieSim.FiberModes</span> <span class="kn">import</span> <span class="n">Genfiles</span>
+<span class="linenos">2</span>
+<span class="linenos">3</span><span class="n">Genfiles</span><span class="p">([(</span><span class="mi">5</span><span class="p">,</span><span class="mi">2</span><span class="p">)],</span> <span class="n">padWidth</span> <span class="o">=</span> <span class="mi">2000</span><span class="p">,</span> <span class="n">Num</span> <span class="o">=</span> <span class="mi">251</span><span class="p">)</span>
 </pre></div>
-</td></tr></table></div>
+</div>
 <p>Here <strong>(5,2)</strong> is the mode we want to add, <strong>padWidth</strong> is the pre-FFT zero-padding,
 it controls the width of the computed LP mode it should stay around 2000.
 Finally <strong>Num</strong> is the lateral resolution for the LP mode. It is safe to keep it at 251.
 Right now <strong>Num</strong> has to be an odd number. Maybe I will look for it soon but not now, sorry!</p>
-</div>
-</div>
+</section>
+</section>
 
 
             <div class="clearer"></div>
@@ -150,7 +149,7 @@ Right now <strong>Num</strong> has to be an odd number. Maybe I will look for it
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2021, Martin Poinsinet de Sivry-Houle.
-      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.5.4.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.0.2.
     </div>
   </body>
 </html>

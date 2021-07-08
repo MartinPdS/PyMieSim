@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ComputingCoupling_Coupling:Scatterer-Photodiode.py:
 
 
-Coupling Scatterer Photodiode
-=============================
+Scatterer Photodiode
+====================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-32
 

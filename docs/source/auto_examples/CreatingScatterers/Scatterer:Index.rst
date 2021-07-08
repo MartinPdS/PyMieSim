@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_CreatingScatterers_Scatterer:Index.py:
 
 
-Scatterer Index
-===============
+Index
+=====
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-22
 

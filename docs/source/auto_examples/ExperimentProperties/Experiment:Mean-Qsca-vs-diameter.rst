@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentProperties_Experiment:Mean-Qsca-vs-diameter.py:
 
 
-Experiment Mean Qsca vs Diameter
-================================
+Mean Qsca vs Diameter
+=====================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-58
 

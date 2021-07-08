@@ -1,6 +1,6 @@
 """
-Coupling Scatterer Photodiode
-=============================
+Scatterer Photodiode
+====================
 """
 
 def run(Plot, Save):

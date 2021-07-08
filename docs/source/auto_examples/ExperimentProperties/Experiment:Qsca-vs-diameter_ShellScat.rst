@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ExperimentProperties_Experiment:Qsca-vs-diameter_ShellScat.py:
 
 
-Experiment Qsca vs Diameter Shell Scat
-======================================
+Qsca vs Diameter Shell Scat
+===========================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-63
 

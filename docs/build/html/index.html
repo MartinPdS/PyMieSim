@@ -4,20 +4,21 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>PyMieSim &#8212; PyMieSim 0.1.11 documentation</title>
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinxdoc.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery-binder.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery-dataframe.css" />
     <link rel="stylesheet" type="text/css" href="_static/gallery-rendered-html.css" />
     <link rel="stylesheet" type="text/css" href="_static/default.css" />
-    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" /> 
   </head><body>
@@ -55,7 +56,7 @@
 <a class="reference external" href="https://doi.org/10.5281/zenodo.4556074"><img alt="zenodo" src="https://zenodo.org/badge/DOI/10.5281/zenodo.4556074.svg" /></a>
 <a class="reference external" href="https://colab.research.google.com/drive/1FUi_hRUXxCVvkHBY10YE1yR-nTATcDei?usp=sharing"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 <a class="reference external" href="https://pymiesim.readthedocs.io/en/latest/?badge=latest"><img alt="docs" src="https://readthedocs.org/projects/pymiesim/badge/?version=latest" /></a></p>
-<div class="section" id="pymiesim">
+<section id="pymiesim">
 <h1>PyMieSim<a class="headerlink" href="#pymiesim" title="Permalink to this headline">¶</a></h1>
 <p>PyMieSim is a very easy to install/use tool for extensive Mie scattering analysis. It allows to study the light scattering
 on different kind of objects (scatterer) though at the moment, only spherical scatterers are implemented.
@@ -76,37 +77,37 @@ Using this package, one can easily set a <strong>Source</strong> a <strong>Scatt
 <p>The package also lets you construct an <strong>Experiment</strong> using <strong>ScattererSet</strong>, <strong>SourceSet</strong> and <strong>DetectorSet</strong>.
 Those class define the type of scatterers, light sources and detectors you want to study.</p>
 <hr class="docutils" />
-<div class="section" id="documentation">
+<section id="documentation">
 <h2>Documentation<a class="headerlink" href="#documentation" title="Permalink to this headline">¶</a></h2>
 <p>All the latest available documentation is available <a class="reference external" href="https://pymiesim.readthedocs.io/en/latest/">here</a> or you can click the following badge:</p>
 <p><a class="reference external" href="https://pymiesim.readthedocs.io/en/latest/?badge=latest"><img alt="docs" src="https://readthedocs.org/projects/pymiesim/badge/?version=latest" /></a></p>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="google-colab">
+<section id="google-colab">
 <h2>Google Colab<a class="headerlink" href="#google-colab" title="Permalink to this headline">¶</a></h2>
 <p>It’s 2021, you don’t need to run all your code on you computer anymore. Google Colab is a platform which allows to write/use python scripts remotely.
 You can open the PyMieSim.ipynb in the file to access it or click on the following “Open in Colab” badge:</p>
 <p><a class="reference external" href="https://colab.research.google.com/drive/1FUi_hRUXxCVvkHBY10YE1yR-nTATcDei?usp=sharing"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg" /></a></p>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="installation">
+<section id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>Wheel support now extended to <a class="reference external" href="https://www.python.org/dev/peps/pep-0599/">manylinux2014</a></p>
 <p>It’s pretty simple:</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="n">PyMieSim</span>
 </pre></div>
 </div>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="running-unittest">
+<section id="running-unittest">
 <h2>Running Unittest<a class="headerlink" href="#running-unittest" title="Permalink to this headline">¶</a></h2>
 <p>To run the Unit-tests, one need the coverage library.</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">python</span> <span class="o">-</span><span class="n">m</span> <span class="n">unittest</span> <span class="n">tests</span><span class="o">/</span><span class="n">Unittest</span><span class="o">.</span><span class="n">py</span>
 </pre></div>
 </div>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="usage">
+<section id="usage">
 <h2>Usage<a class="headerlink" href="#usage" title="Permalink to this headline">¶</a></h2>
 <p>Here is an example on how to use the library.</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">PyMieSim.Source</span> <span class="kn">import</span> <span class="n">PlaneWave</span>
@@ -137,13 +138,13 @@ You can open the PyMieSim.ipynb in the file to access it or click on the followi
 </div>
 <p>For more examples, I invite you to check the <a class="reference external" href="https://pymiesim.readthedocs.io/en/latest/Examples.html">examples</a>
 section of the documentation.</p>
-</div>
-<div class="section" id="coding-examples">
+</section>
+<section id="coding-examples">
 <h2>Coding examples<a class="headerlink" href="#coding-examples" title="Permalink to this headline">¶</a></h2>
 <p>A large set of examples are avaialble in the <cite>test/Examples</cite> folder. You can also see them in the examples section of the <a class="reference external" href="https://pymiesim.readthedocs.io/en/latest/">documentation</a></p>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="to-do-list">
+<section id="to-do-list">
 <h2>To-Do List<a class="headerlink" href="#to-do-list" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>Adding dumb-proof assertions</p></li>
@@ -158,49 +159,49 @@ section of the documentation.</p>
 <li><p>adding travis and codecov [DONE]</p></li>
 <li><p>adding material Sellmeier boundary</p></li>
 </ul>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="citing-this-work">
+<section id="citing-this-work">
 <h2>Citing this work?<a class="headerlink" href="#citing-this-work" title="Permalink to this headline">¶</a></h2>
 <p>I spent half a year to develop this tool for you to use so if it helped you in your research, I would greatly appreciate
 that you cite my work. Many thanks!
 <a class="reference external" href="https://doi.org/10.5281/zenodo.4556074"><img alt="zenodo" src="https://zenodo.org/badge/DOI/10.5281/zenodo.4556074.svg" /></a></p>
 <p>(Is this the new “like, comment and share” ?)</p>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="developper-mode">
+<section id="developper-mode">
 <h2>Developper mode<a class="headerlink" href="#developper-mode" title="Permalink to this headline">¶</a></h2>
 <p>I have worked out a Dockerfile (see the <a class="reference external" href="https://github.com/MartinPdeS/PyMieSim">PyMieSim Git</a>) to install all the necessaries library.</p>
 <p>I you prefer to directly install in your computer the files you can do the following</p>
 <p><strong>Submodules install</strong>
 If you want to clone this repository do not forget to init and update the submodules.</p>
-<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;</span>&gt;&gt; git submodules init
-<span class="gp">&gt;</span>&gt;&gt; git submodules update
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">&gt;&gt;&gt; git submodules init</span>
+<span class="go">&gt;&gt;&gt; git submodules update</span>
 </pre></div>
 </div>
 <p><strong>Fortran wrapper</strong>
 Be sure to have a fortran compiler installed such as “gfortran”.</p>
-<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;</span>&gt;&gt; sudo apt-get install gfortran
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">&gt;&gt;&gt; sudo apt-get install gfortran</span>
 </pre></div>
 </div>
 <p>You have to compile and install the code yourself. You can either follow the instruction as showed <a class="reference external" href="https://github.com/joeydumont/complex_bessel">here</a> or do the following:</p>
-<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;</span>&gt;&gt; <span class="nb">cd</span> extern/complex_bessel <span class="o">&amp;&amp;</span> cmake . <span class="o">&amp;&amp;</span> make install
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">&gt;&gt;&gt; cd extern/complex_bessel &amp;&amp; cmake . &amp;&amp; make install</span>
 </pre></div>
 </div>
 <p><strong>C++ wrapper</strong>
 You now need to compile the c++ code for your specific python version. If no prefered version leave DVERSION blank.</p>
-<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;</span>&gt;&gt; cmake . -DVERSION<span class="o">=</span><span class="m">3</span>.8
-<span class="gp">&gt;</span>&gt;&gt; make all
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">&gt;&gt;&gt; cmake . -DVERSION=3.8</span>
+<span class="go">&gt;&gt;&gt; make all</span>
 </pre></div>
 </div>
-</div>
-<div class="section" id="contact-information">
+</section>
+<section id="contact-information">
 <h2>Contact Information<a class="headerlink" href="#contact-information" title="Permalink to this headline">¶</a></h2>
 <p>As of 2021, the project is still under development. If you want to collaborate, it would be a pleasure! I encourage you to contact me.</p>
 <p>PyMieSim was written by <a class="reference external" href="https://github.com/MartinPdS">Martin Poinsinet de Sivry-Houle</a>  .</p>
 <p>Email:<a class="reference external" href="mailto:martin&#46;poinsinet-de-sivry&#37;&#52;&#48;polymtl&#46;ca?subject=PyMieSim">martin<span>&#46;</span>poinsinet-de-sivry<span>&#64;</span>polymtl<span>&#46;</span>ca</a> .</p>
-</div>
-</div>
+</section>
+</section>
 
 
             <div class="clearer"></div>
@@ -269,7 +270,7 @@ You now need to compile the c++ code for your specific python version. If no pre
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2021, Martin Poinsinet de Sivry-Houle.
-      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.5.4.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.0.2.
     </div>
   </body>
 </html>

@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_CreatingScatterers_Scatterer:SamplesProperties.py:
 
 
-Scatterer Samples Properties
-============================
+Samples Properties
+==================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-72
 

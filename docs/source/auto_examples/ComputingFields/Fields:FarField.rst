@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ComputingFields_Fields:FarField.py:
 
 
-Fields Far Field
-================
+Far Field
+=========
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-35
 

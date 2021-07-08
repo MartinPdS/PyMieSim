@@ -1,6 +1,6 @@
 """
-Experiment Mie Resonances
-=========================
+Mie Resonances
+==============
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Experiment:Mie-resonances.png'

@@ -1,6 +1,6 @@
 """
-Fields S1 S2
-============
+S1 S2
+=====
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Fields:S1S2.png'

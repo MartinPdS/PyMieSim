@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ComputingFields_Fields:Stokes.py:
 
 
-Fields Stokes
-=============
+Stokes
+======
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-33
 

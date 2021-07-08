@@ -1,6 +1,6 @@
 """
-Experiment Qsca vs Diameter Shell Scat
-======================================
+Qsca vs Diameter Shell Scat
+===========================
 """
 
 def run(Plot, Save):

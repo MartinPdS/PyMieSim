@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_ComputingFields_Fields:SPF.py:
 
 
-Fields SPF
-==========
+SPF
+===
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-32
 

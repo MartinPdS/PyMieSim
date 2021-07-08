@@ -1,6 +1,6 @@
 """
-Experiment Qscattering
-======================
+Qscattering
+===========
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Experiment:Qscattering.png'

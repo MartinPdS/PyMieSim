@@ -18,8 +18,8 @@
 .. _sphx_glr_auto_examples_Extra_Extra:New-Material-BK7.py:
 
 
-Extra New Material BK7
-======================
+New Material BK7
+================
 
 .. GENERATED FROM PYTHON SOURCE LINES 5-26
 

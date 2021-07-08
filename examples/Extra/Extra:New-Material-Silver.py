@@ -1,6 +1,6 @@
 """
-Extra New Material Silver
-=========================
+New Material Silver
+===================
 """
 
 # sphinx_gallery_thumbnail_path = '../images/Extra:New-Material-Silver.png'
